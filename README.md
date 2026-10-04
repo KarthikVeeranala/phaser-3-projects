@@ -13,7 +13,7 @@
   </p>
 
   <p align="center">
-    A curated suite of <strong>14 playable 2D game prototypes, combat mechanics, and physics simulations</strong> engineered by <strong>Karthik Veeranala</strong> during his Game Developer Internship at <strong>Aicade</strong>.
+    A curated suite of <strong>14 playable 2D game prototypes, combat mechanics, and physics simulations</strong> engineered by <strong>ME</strong> during my Game Developer Internship at <strong>Aicade</strong>.
   </p>
   
   <p align="center">
