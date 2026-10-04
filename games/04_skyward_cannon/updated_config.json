@@ -1,0 +1,56 @@
+{
+  "title": "Cannon Defender",
+  "url": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/rIZ7V0gqeADZtjFH/game_config.json",
+  "description": "<p>Blast waves of incoming enemies with your powerful cannon! Collect ammo crates to stay loaded and fire special flaming bullets for massive damage. Dodge enemy attacks and defeat the boss to claim victory.</p><p><strong>Controls:</strong></p><ul><li><strong>Desktop:</strong></li><li class=\"ql-indent-1\">Move: Arrow Keys or Mouse Drag</li><li class=\"ql-indent-1\">Aim: Mouse Pointer</li><li class=\"ql-indent-1\">Fire: Left Mouse Button</li><li><strong>Mobile:</strong></li><li class=\"ql-indent-1\">Move: On-screen Joystick</li><li class=\"ql-indent-1\">Aim: Tap and Drag</li><li class=\"ql-indent-1\">Fire: On-screen Fire Button</li></ul><p><strong>Objective:</strong></p><p>Survive as long as possible, destroy enemies, and earn the highest score!</p>",
+  "instructions": "Use arrows or touch to move, shoot enemies to score, collect powerups.",
+  "deviceOrientation": "landscape",
+  "imageLoader": {
+    "background": "https://aicade-ui-assets.s3.amazonaws.com/background_scene.webp/games/6994335331/history/iteration/EMTLoVrleTh0YS5m.webp",
+    "player_canon": "https://aicade-ui-assets.s3.amazonaws.com/player_character.webp/games/6994335331/history/iteration/vCIdKnhkwH3vMsdD.webp",
+    "enemy": "https://aicade-ui-assets.s3.amazonaws.com/dragon_enemy.webp/games/6994335331/history/iteration/vCIdKnhkwH3vMsdD.webp",
+    "enemy_1": "https://aicade-ui-assets.s3.amazonaws.com/skeleton_enemy.webp/games/6994335331/history/iteration/vCIdKnhkwH3vMsdD.webp",
+    "projectile_cannonball": "https://aicade-ui-assets.s3.amazonaws.com/arrow_projectile.webp/games/6994335331/history/iteration/vCIdKnhkwH3vMsdD.webp",
+    "collectible_firebullet": "https://aicade-ui-assets.s3.amazonaws.com/bullet_projectile.webp/games/6994335331/history/iteration/vCIdKnhkwH3vMsdD.webp",
+    "platform": "https://aicade-user-store.s3.amazonaws.com/6994335331/games/vCIdKnhkwH3vMsdD/assets/images/extra_platform_2.png_id.png?t=1751615632903",
+    "enemy_boss": "https://aicade-ui-assets.s3.amazonaws.com/skeleton_enemy.webp/games/6994335331/history/iteration/vCIdKnhkwH3vMsdD.webp"
+  },
+  "soundsLoader": {
+    "background": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/background_f676841b-c0ef-4774-865d-3110aac684bc.mp3?t=1751698676557",
+    "shoot": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/shoot_903fbed5-60cd-4b2b-9a07-6093cd234ed0.mp3?t=1751698770187",
+    "upgrade": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/upgrade_e551e490-5209-4d8a-ada7-5869817e40f5.mp3?t=1751698751261",
+    "pickup": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/pickup_721c06e9-3093-40b8-86b2-f3a01380c95b.mp3?t=1751698814290",
+    "hit": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/hit_1c709c3b-6848-42bd-bed2-344112b4c603.mp3?t=1751698777967",
+    "victory": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/victory_0665530d-3342-44ec-aa1a-dfa8c1dcef54.mp3?t=1751698743407",
+    "defeat": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/defeat_367faa4b-989e-48de-b528-c8f2df617867.mp3?t=1751698760882",
+    "menuMusic": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/menuMusic_976baa2a-ab45-418f-b8ea-251b2038e86e.mp3?t=1751698794463",
+    "gameMusic": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/gameMusic_4b3b5c7d-1b4c-4ee9-9046-6b07cb5d828f.mp3?t=1751698785412"
+  },
+  "deviceOrientationSizes": {
+    "landscape": {
+      "height": 720,
+      "width": 1280
+    },
+    "portrait": {
+      "height": 1280,
+      "width": 720
+    }
+  },
+  "phaserUrl": "https://cdnjs.cloudflare.com/ajax/libs/phaser/3.80.1/phaser.min.js",
+  "phaserVersion": "3.80.1",
+  "orientationSizes": {
+    "landscape": {
+      "height": 720,
+      "width": 1280
+    },
+    "portrait": {
+      "height": 1280,
+      "width": 720
+    }
+  },
+  "libLoader": {
+    "pauseButton": "https://aicade-ui-assets.s3.amazonaws.com/GameAssets/icons/pause.png",
+    "heart": "https://aicade-ui-assets.s3.amazonaws.com/GameAssets/icons/heart.png",
+    "leftArrow": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/rIZ7V0gqeADZtjFH/assets/images/extra_leftArrow.png_id.png?t=1751811671548",
+    "rightArrow": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/rIZ7V0gqeADZtjFH/assets/images/extra_rightArrow.png_id.png?t=1751811680353"
+  }
+}

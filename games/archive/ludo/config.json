@@ -1,0 +1,65 @@
+{
+  "title": "Ludo Class",
+  "url": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/XholGkQ5WjfMeVMv/game_config.json",
+  "description": "<p><strong>Ludo Classic: Roll the Dice!</strong></p><p>Relive the timeless fun of Ludo, reimagined for your screen! Gather your friends and family for this classic board game of strategy, luck, and a race to the finish line.</p><p><strong>Game Features:</strong></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><strong>Classic Ludo Gameplay:</strong> Roll the dice, move your pawns, and navigate the board to get all your pieces home before your opponents.</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><strong>Multiplayer Fun:</strong> Play with 2, 3, or 4 players in a single game.</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><strong>Play Your Way:</strong> Challenge your friends in local multiplayer or test your skills against our smart AI opponents. Customize each player to be human or AI.</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><strong>Exciting Rules:</strong> Get an extra turn when you roll a six or capture an opponent's pawn!</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><strong>Polished Experience:</strong> Enjoy smooth animations, satisfying sound effects, and a clean, modern interface that makes playing a joy.</li></ol><p>Will you be the first to get all your pawns to safety? There's only one way to find out. Roll the dice and become the Ludo champion!</p>",
+  "instructions": "Instructions: 1. Use A/D keys to move left/right (desktop) or joystick (mobile) 2. Press SPACE or W to jump (desktop) or jump button (mobile) 3. Click to shoot (desktop) or tap to shoot (mobile) 4. Press R to reload when out of ammo 5. Collect powerups from enemies and use UI buttons to activate them 6. Collect diamonds for points 7. Start at bottom-left, reach the portal at top-right to advance levels",
+  "deviceOrientation": "landscape",
+  "imageLoader": {
+    "background": "https://aicade-user-store.s3.amazonaws.com/7732772900/games/0Yrtke6dU0nGoFev/assets/images/extra_UI.png_id.png?t=1759504074091",
+    "piece_red": "https://aicade-user-store.s3.amazonaws.com/7732772900/games/0Yrtke6dU0nGoFev/assets/images/red.png?t=1759757566504",
+    "piece_green": "https://aicade-user-store.s3.amazonaws.com/7732772900/games/0Yrtke6dU0nGoFev/assets/images/green.png?t=1759757628453",
+    "piece_blue": "https://aicade-user-store.s3.amazonaws.com/7732772900/games/0Yrtke6dU0nGoFev/assets/images/blue.png?t=1759757676923",
+    "piece_yellow": "https://aicade-user-store.s3.amazonaws.com/7732772900/games/0Yrtke6dU0nGoFev/assets/images/yellow.png?t=1759757703228",
+    "extra_pawns_outline.png_id": "https://aicade-ui-assets.s3.amazonaws.com/7732772900/games/0Yrtke6dU0nGoFev/history/iteration/2xnpOcMyKFQb.webp",
+    "extra_dice.jpg_id": "https://aicade-user-store.s3.amazonaws.com/7732772900/games/0Yrtke6dU0nGoFev/assets/images/extra_dice.jpg_id.png?t=1759758846271",
+    "dice_1": "https://aicade-user-store.s3.amazonaws.com/7732772900/games/0Yrtke6dU0nGoFev/assets/images/dice_1.png?t=1759758923958",
+    "dice_2": "https://aicade-user-store.s3.amazonaws.com/7732772900/games/0Yrtke6dU0nGoFev/assets/images/dice_2.png?t=1759758995799",
+    "dice_3": "https://aicade-user-store.s3.amazonaws.com/7732772900/games/0Yrtke6dU0nGoFev/assets/images/dice_3.png?t=1759759040390",
+    "dice_4": "https://aicade-user-store.s3.amazonaws.com/7732772900/games/0Yrtke6dU0nGoFev/assets/images/dice_4.png?t=1759759144561",
+    "dice_5": "https://aicade-user-store.s3.amazonaws.com/7732772900/games/0Yrtke6dU0nGoFev/assets/images/dice_5.png?t=1759759199958",
+    "dice_6": "https://aicade-user-store.s3.amazonaws.com/7732772900/games/0Yrtke6dU0nGoFev/assets/images/dice_6.png?t=1759759269318",
+    "extra_animal-avatars.png_id": "https://aicade-user-store.s3.amazonaws.com/7732772900/games/0Yrtke6dU0nGoFev/assets/images/extra_animal-avatars.png_id.png?t=1759830785263",
+    "profile_1": "https://aicade-user-store.s3.amazonaws.com/7732772900/games/0Yrtke6dU0nGoFev/assets/images/profile_1.png?t=1759830824135",
+    "profile_2": "https://aicade-user-store.s3.amazonaws.com/7732772900/games/0Yrtke6dU0nGoFev/assets/images/profile_2.png?t=1759830858291",
+    "profile_3": "https://aicade-user-store.s3.amazonaws.com/7732772900/games/0Yrtke6dU0nGoFev/assets/images/profile_3.png?t=1759830903607",
+    "profile_4": "https://aicade-user-store.s3.amazonaws.com/7732772900/games/0Yrtke6dU0nGoFev/assets/images/profile_4.png?t=1759830944498",
+    "profile_5": "https://aicade-user-store.s3.amazonaws.com/7732772900/games/0Yrtke6dU0nGoFev/assets/images/profile_5.png?t=1759830977949",
+    "profile_6": "https://aicade-user-store.s3.amazonaws.com/7732772900/games/0Yrtke6dU0nGoFev/assets/images/profile_6.png?t=1759831026269",
+    "human_icon": "https://aicade-user-store.s3.amazonaws.com/7732772900/games/0Yrtke6dU0nGoFev/assets/images/extra_human_icon.png_id.png?t=1759831283385",
+    "bot_icon": "https://aicade-user-store.s3.amazonaws.com/7732772900/games/0Yrtke6dU0nGoFev/assets/images/extra_bot_icon.png_id.png?t=1759831363434",
+    "background_blur": "https://aicade-user-store.s3.amazonaws.com/7732772900/games/0Yrtke6dU0nGoFev/assets/images/extra_background.png_id.png?t=1759842460650",
+    "logo": "https://aicade-user-store.s3.amazonaws.com/7732772900/games/0Yrtke6dU0nGoFev/assets/images/logo.png?t=1759843034316",
+    "2d_topdown_red_dice_spritesheet_2025-10-09 11:29:14.060590": "https://aicade-ui-assets.s3.amazonaws.com/2d_topdown_red_dice_spritesheet.webp/games/7732772900/history/iteration/0Yrtke6dU0nGoFev.webp"
+  },
+  "soundsLoader": {
+    "background": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/background_4a167f7b-c5e3-4935-b0c2-66781204b8ca.mp3?t=1759757771221",
+    "extra_background.mp3_1759757767223": "https://aicade-ui-assets.s3.amazonaws.com/GameAssets/music/bgm-7.mp3",
+    "eliminated": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/zapsplat_cartoon_blink_flutter_eyelids_very_fast_hard_orchestral_xylophone_113928_deb3f3ce-a902-477c-ab31-35a010ffbc19.mp3?t=1759942986416",
+    "roll_dice": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/zapsplat_leisure_board_game_dice_throw_roll_on_playing_board_002_37258_28b9397a-f919-4359-882b-49a1c0048462.mp3?t=1759942990408",
+    "pawn_move": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/zapsplat_multimedia_game_sound_8_bit_blip_beeping_pop_112006_b71590a1-bade-45ba-a0fb-8802214f2aa2.mp3?t=1759942994667",
+    "finished": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/mixkit-quick-win-video-game-notification-269_d87be133-5f22-4fcb-93a7-a4b175deb80b.mp3?t=1759942998173"
+  },
+  "libLoader": {},
+  "deviceOrientationSizes": {
+    "landscape": {
+      "height": 720,
+      "width": 1280
+    },
+    "portrait": {
+      "height": 1280,
+      "width": 720
+    }
+  },
+  "phaserUrl": "https://cdnjs.cloudflare.com/ajax/libs/phaser/3.80.1/phaser.min.js",
+  "phaserVersion": "3.80.1",
+  "orientationSizes": {
+    "landscape": {
+      "height": 720,
+      "width": 1280
+    },
+    "portrait": {
+      "height": 1280,
+      "width": 720
+    }
+  }
+}

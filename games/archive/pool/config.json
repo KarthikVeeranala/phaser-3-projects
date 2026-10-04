@@ -1,0 +1,61 @@
+{
+  "title": "8-Ball Pool",
+  "url": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/BxtTW9NWPThSGWvF/game_config.json",
+  "description": "<p>Classic 8-ball pool game with realistic physics. Pocket all your balls (solids or stripes) then sink the 8-ball to win!</p>",
+  "instructions": "Instructions: 1. Drag to aim and set power. 2. Release to shoot. 3. Pocket your assigned balls first. 4. Sink the 8-ball last to win!",
+  "deviceOrientation": "landscape",
+  "imageLoader": {
+    "background_blur": "https://aicade-user-store.s3.amazonaws.com/7732772900/games/0Yrtke6dU0nGoFev/assets/images/extra_background.png_id.png?t=1759842460650",
+    "logo": "https://aicade-user-store.s3.amazonaws.com/7732772900/games/0Yrtke6dU0nGoFev/assets/images/logo.png?t=1759843034316",
+    "profile_1": "https://aicade-user-store.s3.amazonaws.com/7732772900/games/0Yrtke6dU0nGoFev/assets/images/profile_1.png?t=1759830824135",
+    "profile_2": "https://aicade-user-store.s3.amazonaws.com/7732772900/games/0Yrtke6dU0nGoFev/assets/images/profile_2.png?t=1759830858291",
+    "profile_3": "https://aicade-user-store.s3.amazonaws.com/7732772900/games/0Yrtke6dU0nGoFev/assets/images/profile_3.png?t=1759830903607",
+    "profile_4": "https://aicade-user-store.s3.amazonaws.com/7732772900/games/0Yrtke6dU0nGoFev/assets/images/profile_4.png?t=1759830944498",
+    "profile_5": "https://aicade-user-store.s3.amazonaws.com/7732772900/games/0Yrtke6dU0nGoFev/assets/images/profile_5.png?t=1759830977949",
+    "profile_6": "https://aicade-user-store.s3.amazonaws.com/7732772900/games/0Yrtke6dU0nGoFev/assets/images/profile_6.png?t=1759831026269",
+    "human_icon": "https://aicade-user-store.s3.amazonaws.com/7732772900/games/0Yrtke6dU0nGoFev/assets/images/extra_human_icon.png_id.png?t=1759831283385",
+    "bot_icon": "https://aicade-user-store.s3.amazonaws.com/7732772900/games/0Yrtke6dU0nGoFev/assets/images/extra_bot_icon.png_id.png?t=1759831363434",
+    "table": "https://aicade-user-store.s3.amazonaws.com/6994335331/games/Pa8CSGPf7lrqhEA9/assets/images/table.png?t=1741778853773",
+    "cue": "https://aicade-user-store.s3.amazonaws.com/6994335331/games/Pa8CSGPf7lrqhEA9/assets/images/cue.png?t=1741780084326",
+    "ball_white": "https://aicade-user-store.s3.amazonaws.com/6994335331/games/Pa8CSGPf7lrqhEA9/assets/images/ball_16.png?t=1741778842578",
+    "ball_black": "https://aicade-user-store.s3.amazonaws.com/6994335331/games/Pa8CSGPf7lrqhEA9/assets/images/ball_8.png?t=1741778774107",
+    "ball_red_1": "https://aicade-user-store.s3.amazonaws.com/6994335331/games/Pa8CSGPf7lrqhEA9/assets/images/ball%201.png?t=1741778689729",
+    "ball_red_2": "https://aicade-user-store.s3.amazonaws.com/6994335331/games/Pa8CSGPf7lrqhEA9/assets/images/ball%202.png?t=1741778696794",
+    "ball_red_3": "https://aicade-user-store.s3.amazonaws.com/6994335331/games/Pa8CSGPf7lrqhEA9/assets/images/ball%203.png?t=1741778748480",
+    "ball_red_4": "https://aicade-user-store.s3.amazonaws.com/6994335331/games/Pa8CSGPf7lrqhEA9/assets/images/ball%204.png?t=1741778756243",
+    "ball_red_5": "https://aicade-user-store.s3.amazonaws.com/6994335331/games/Pa8CSGPf7lrqhEA9/assets/images/ball_5.png?t=1741779142340",
+    "ball_red_6": "https://aicade-user-store.s3.amazonaws.com/6994335331/games/Pa8CSGPf7lrqhEA9/assets/images/ball_6.png?t=1741778761461",
+    "ball_red_7": "https://aicade-user-store.s3.amazonaws.com/6994335331/games/Pa8CSGPf7lrqhEA9/assets/images/ball_7.png?t=1741778767042",
+    "ball_yellow_9": "https://aicade-user-store.s3.amazonaws.com/6994335331/games/Pa8CSGPf7lrqhEA9/assets/images/ball_9.png?t=1741778785498",
+    "ball_yellow_10": "https://aicade-user-store.s3.amazonaws.com/6994335331/games/Pa8CSGPf7lrqhEA9/assets/images/ball_10.png?t=1741778792946",
+    "ball_yellow_11": "https://aicade-user-store.s3.amazonaws.com/6994335331/games/Pa8CSGPf7lrqhEA9/assets/images/ball_11.png?t=1741778815374",
+    "ball_yellow_12": "https://aicade-user-store.s3.amazonaws.com/6994335331/games/Pa8CSGPf7lrqhEA9/assets/images/ball_12.png?t=1741778822440",
+    "ball_yellow_13": "https://aicade-user-store.s3.amazonaws.com/6994335331/games/Pa8CSGPf7lrqhEA9/assets/images/ball_13.png?t=1741778827094",
+    "ball_yellow_14": "https://aicade-user-store.s3.amazonaws.com/6994335331/games/Pa8CSGPf7lrqhEA9/assets/images/ball_14.png?t=1741778831861",
+    "ball_yellow_15": "https://aicade-user-store.s3.amazonaws.com/6994335331/games/Pa8CSGPf7lrqhEA9/assets/images/ball_15.png?t=1741778838516",
+    "power_meter": "https://aicade-ui-assets.s3.amazonaws.com/GameAssets/pool/power_meter.png",
+    "pocket": "https://aicade-ui-assets.s3.amazonaws.com/6994335331/games/Pa8CSGPf7lrqhEA9/history/iteration/gGc9tuRTHeUv.webp",
+    "aim_line": "https://aicade-user-store.s3.amazonaws.com/6994335331/games/Pa8CSGPf7lrqhEA9/assets/images/preview.png?t=1741779480994"
+  },
+  "soundsLoader": {
+    "background": "https://aicade-ui-assets.s3.amazonaws.com/GameAssets/music/bgm-7.mp3",
+    "success": "https://aicade-ui-assets.s3.amazonaws.com/GameAssets/sfx/success_1.wav",
+    "lose": "https://aicade-ui-assets.s3.amazonaws.com/GameAssets/sfx/lose_1.mp3",
+    "cue_hit": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/edited_audio_201222c8-23ba-4f1c-9759-34b7bc187427.mp3?t=1741779567814",
+    "pocket": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/edited_audio_802846a2-b641-474f-984d-cfaececf5330.mp3?t=1741779625771",
+    "ball_hit": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/edited_audio_e5d48dd3-e5d3-471e-86a0-5af79c2628ae.mp3?t=1741779719515"
+  },
+  "libLoader": {},
+  "deviceOrientationSizes": {
+    "landscape": {
+      "height": 720,
+      "width": 1280
+    },
+    "portrait": {
+      "height": 1280,
+      "width": 720
+    }
+  },
+  "phaserUrl": "https://cdnjs.cloudflare.com/ajax/libs/phaser/3.80.1/phaser.min.js",
+  "phaserVersion": "3.80.1"
+}

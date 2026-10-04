@@ -1,0 +1,45 @@
+{
+  "description": "Horizontal arcade defense shooter featuring dynamic ammunition management, flaming projectile upgrades, and escalating enemy waves culminating in a bullet-hell boss showdown.",
+  "deviceOrientation": "landscape",
+  "imageLoader": {
+    "background": "assets/Downloads/background.jpg",
+    "canon": "assets/Downloads/player.png",
+    "player": "assets/Downloads/player.png",
+    "enemy": "assets/Downloads/enemy.png",
+    "enemy_1": "assets/Downloads/enemy_1.png",
+    "projectile": "assets/Downloads/projectile.png",
+    "firebullet": "assets/Downloads/firebullet.png",
+    "platform": "assets/platform.png",
+    "boss": "assets/Downloads/boss.png",
+    "ammobox": "assets/Downloads/ammobox.png"
+  },
+  "libLoader": {
+    "pauseButton": "https://aicade-ui-assets.s3.amazonaws.com/GameAssets/icons/pause.png",
+    "heart": "https://aicade-ui-assets.s3.amazonaws.com/GameAssets/icons/heart.png"
+  },
+  "instructions": "Left / Right Arrows: Move cannon along defense line. Mouse Aim: Aim turret. Left Click: Fire cannonball. SHIFT: Activate Bullet Time (slows incoming enemy movement). Collect ammo boxes to reload depleted munitions. ESC: Pause.",
+  "orientationSizes": {
+    "landscape": {
+      "height": 720,
+      "width": 1280
+    },
+    "portrait": {
+      "height": 1280,
+      "width": 720
+    }
+  },
+  "phaserUrl": "https://cdnjs.cloudflare.com/ajax/libs/phaser/3.80.1/phaser.min.js",
+  "phaserVersion": "3.80.1",
+  "soundsLoader": {
+    "shoot": "assets/Downloads/shoot.mp3",
+    "upgrade": "assets/Downloads/upgrade.mp3",
+    "pickup": "assets/Downloads/upgrade.mp3",
+    "hit": "assets/Downloads/hit.mp3",
+    "victory": "assets/Downloads/gameMusic.mp3",
+    "defeat": "assets/Downloads/hit.mp3",
+    "menuMusic": "assets/Downloads/menuMusic.mp3",
+    "gameMusic": "assets/Downloads/gameMusic.mp3"
+  },
+  "title": "Cannon Rampart"
+}
+

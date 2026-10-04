@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cannon Defender (Vertical) — Karthik Portfolio</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body {
+      width: 100%; height: 100%;
+      background: #0c0d10;
+      overflow: hidden;
+      display: flex; align-items: center; justify-content: center;
+    }
+    #game-container {
+      width: 100%; height: 100%;
+      display: flex; align-items: center; justify-content: center;
+    }
+  </style>
+  <script src="../shared/phaser.min.js"></script>
+  <script>
+    if (typeof Phaser === 'undefined') {
+      document.write('<script src="https://cdnjs.cloudflare.com/ajax/libs/phaser/3.80.1/phaser.min.js"><\/script>');
+    }
+  </script>
+  <script src="../shared/aicade-runtime.js"></script>
+</head>
+<body>
+  <div id="game-container"></div>
+  <script>
+    fetch("config.json")
+      .then(res => res.json())
+      .then(configData => {
+        window._CONFIG = configData;
+        const script = document.createElement("script");
+        script.src = "game.js";
+        script.onload = () => {
+          if (typeof Phaser !== "undefined" && typeof config !== "undefined") {
+            config.parent = "game-container";
+            new Phaser.Game(config);
+          } else {
+            console.error("Config or Phaser not defined");
+          }
+        };
+        document.body.appendChild(script);
+      })
+      .catch(err => console.error("Error loading config:", err));
+  </script>
+</body>
+</html>

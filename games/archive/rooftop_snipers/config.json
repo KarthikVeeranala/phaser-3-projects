@@ -1,0 +1,99 @@
+{
+  "title": "Rooftop Snipers",
+  "url": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/Aq5pakzprn8n2Wwt/game_config.json",
+  "description": "<p>A physics-based 2-player fighting game where players battle on rooftops, trying to knock each other off with bullets and physics.</p>",
+  "instructions": "Player 1: W to jump, SPACE to shoot. Player 2: UP to jump, L to shoot. First to 5 wins!",
+  "deviceOrientation": "landscape",
+  "imageLoader": {
+    "player_face": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/Aq5pakzprn8n2Wwt/assets/images/extra_image-removebg-preview%20%287%29.png_id.png?t=1754772654532",
+    "ai_face": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/Aq5pakzprn8n2Wwt/assets/images/extra_image-removebg-preview%20%287%29%20-%20Copy.png_id.png?t=1754773102069",
+    "background": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/Aq5pakzprn8n2Wwt/assets/images/extra_Gemini_Generated_Image_9tv6h79tv6h79tv6-removebg-preview.png_id.png?t=1754310615068",
+    "platform": "https://aicade-user-store.s3.amazonaws.com/6994335331/games/vCIdKnhkwH3vMsdD/assets/images/extra_platform_2.png_id.png?t=1751615632903"
+    
+  },
+  "soundsLoader": {
+    "background": "https://aicade-ui-assets.s3.amazonaws.com/GameAssets/music/bgm-8.mp3",
+    "shoot": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/edited_audio_28e936b6-fbfd-4c5b-b931-852b46940895.mp3?t=1748922688391",
+    "jump": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/edited_audio_3945f9e7-044a-4d4c-8a98-edbd7e51fc8a.mp3?t=1748927251341",
+    "damage": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/edited_audio_9e699e5d-79ec-497d-b1c4-cb6a0adfe724.mp3?t=1748924979877",
+    "success": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/pick-up-sfx-38516_e82cf833-bdaf-40ed-8811-04bef16762ac.mp3?t=1748921942701"
+  },
+  "libLoader": {
+    "projectile": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/Aq5pakzprn8n2Wwt/assets/images/extra_ui_gem.png_id.png?t=1753903629502",
+    "help_icon": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/Aq5pakzprn8n2Wwt/assets/images/extra_image-removebg-preview%20%2843%29.png_id.png?t=1757394506382",
+    "rooftop_texture": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/Aq5pakzprn8n2Wwt/assets/images/extra_25wsrtcyvuhl.png_id.png?t=1754923066045"
+  },
+  "deviceOrientationSizes": {
+    "landscape": {
+      "height": 720,
+      "width": 1280
+    },
+    "portrait": {
+      "height": 1280,
+      "width": 720
+    }
+  },
+  "phaserUrl": "https://cdnjs.cloudflare.com/ajax/libs/phaser/3.80.1/phaser.min.js",
+  "phaserVersion": "3.80.1",
+  "orientationSizes": {
+    "landscape": {
+      "width": 1280,
+      "height": 720
+    },
+    "portrait": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  "mobile_portrait": false,
+  "worlds": {
+    "forest": {
+      "background": "Background",
+      "objects": [
+        {
+          "type": "tree",
+          "x": 400,
+          "y": 300
+        },
+        {
+          "type": "grass",
+          "x": 500,
+          "y": 320
+        }
+      ]
+    },
+    "town": {
+      "background": "town_bg",
+      "objects": [
+        {
+          "type": "grass",
+          "x": 100,
+          "y": 200
+        },
+        {
+          "type": "tree",
+          "x": 300,
+          "y": 500
+        }
+      ]
+    }
+  },
+  "audioLoader": {
+    "backgroundMusic": "https://aicade-ui-assets.s3.amazonaws.com/GameAssets/music/bgm-3.mp3",
+    "gameOverMusic": "https://aicade-ui-assets.s3.amazonaws.com/GameAssets/sfx/lose_3.mp3"
+  },
+  "rexJoystickUrl": "https://raw.githubusercontent.com/rexrainbow/phaser3-rex-notes/master/dist/rexvirtualjoystickplugin.min.js",
+  "rexButtonUrl": "https://raw.githubusercontent.com/rexrainbow/phaser3-rex-notes/master/dist/rexbuttonplugin.min.js",
+  "atlasLoader": {
+    "frames": "https://files.catbox.moe/oh9r4d.json",
+    "explosion": "https://aicade-user-store.s3.amazonaws.com/7126830044/games/bkQVYsnitJ3rseo4/assets/images/explosion.png?t=1749673224883"
+  },
+  "fontLoader": {
+    "pixelfont_png": "https://aicade-ui-assets.s3.amazonaws.com/GameAssets/fonts/pix.png",
+    "pixelfont_xml": "https://aicade-ui-assets.s3.amazonaws.com/GameAssets/fonts/pix.xml"
+  },
+  "gravity": 300,
+  "playerSpeed": 160,
+  "jumpStrength": 330,
+  "maxJumps": 2
+}

@@ -1,0 +1,78 @@
+{
+  "title": "Greedy Willie",
+  "url": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/s8FOYuMcFn8iEuyh/game_config.json",
+  "description": "<p>A roguelike adventure in a dark gold mine! Willie is taking some risks going into an abandoned gold mine. Guide him through the infinite galleries but be careful of the use of the TNT or he may kill himself!</p>",
+  "instructions": "Controls: WASD/Arrows for movement, W to jump, S to place TNT (2.5 secs), SPACE for controlled detonation (need remote from chest). Collect powerups from chests: Health (green), TNT (red), Speed (blue), Remote Control (yellow). Watch out for falling debris from explosions!",
+  "deviceOrientation": "landscape",
+  "imageLoader": {
+    "background": "https://aicade-ui-assets.s3.amazonaws.com/background.webp/games/1760936552/history/iteration/s8FOYuMcFn8iEuyh.webp",
+    "player": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/s8FOYuMcFn8iEuyh/assets/images/extra_55f18008-ba75-4b50-a31e-8c0d54199ebb-removebg-preview.png_id.png?t=1752588513569",
+    "collectible": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/s8FOYuMcFn8iEuyh/assets/images/extra_83128fab-0f35-48b4-a9e8-576e3e8f6e24-removebg-preview.png_id.png?t=1752588521633"
+  },
+  "soundsLoader": {
+    "background": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/background_20038d11-eedf-4640-a5e9-7f8cc900dea4.mp3?t=1752588485730",
+    "collect": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/upgrade_d4c434ec-d8f3-4f9a-8524-678f4885eb57.mp3?t=1752588462563",
+    "jump": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/hit_7d5a5700-085f-4a70-b0aa-d0224d42eaf2.mp3?t=1752588493680",
+    "destroy": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/shoot_6c3b22fb-50fd-4722-8273-98fd87be88c3.mp3?t=1752588454064",
+    "damage": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/hit_e14ef967-4ee6-4806-b825-e3c5da3280de.mp3?t=1752588437359",
+    "click": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/pickup_bcf24151-aa71-4f46-8a94-56079eb8133e.mp3?t=1752588470864",
+    "success": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/victory_8d0098bc-554f-438a-a9fa-6727c4820968.mp3?t=1752614072076"
+  },
+  "libLoader": {
+    "heart": "https://aicade-ui-assets.s3.amazonaws.com/GameAssets/icons/heart.png",
+    "wall": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/s8FOYuMcFn8iEuyh/assets/images/extra_1819201png%20-%20Copy.png_id.png?t=1752786876584",
+    "enemy": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/s8FOYuMcFn8iEuyh/assets/images/extra_24814__2_-removebg-preview.png_id.png?t=1752785792008",
+    "platform_edge": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/s8FOYuMcFn8iEuyh/assets/images/extra_181920.png_id.png?t=1752789820629",
+    "platform_fill": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/s8FOYuMcFn8iEuyh/assets/images/extra_Browser%20Games%20-%20The%20Enchanted%20Cave%202%20-%20Cave.png_id.png?t=1752789827001"
+  },
+  "deviceOrientationSizes": {
+    "landscape": {
+      "height": 720,
+      "width": 1280
+    },
+    "portrait": {
+      "height": 1280,
+      "width": 720
+    }
+  },
+  "phaserUrl": "https://cdnjs.cloudflare.com/ajax/libs/phaser/3.80.1/phaser.min.js",
+  "phaserVersion": "3.80.1",
+  "orientationSizes": {
+    "landscape": {
+      "width": 1280,
+      "height": 720
+    },
+    "portrait": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  "rexJoystickUrl": "https://raw.githubusercontent.com/rexrainbow/phaser3-rex-notes/master/dist/rexvirtualjoystickplugin.min.js",
+  "rexButtonUrl": "https://raw.githubusercontent.com/rexrainbow/phaser3-rex-notes/master/dist/rexbuttonplugin.min.js",
+  "fontLoader": {
+    "pixelfont_png": "https://aicade-ui-assets.s3.amazonaws.com/GameAssets/fonts/pix.png",
+    "pixelfont_xml": "https://aicade-ui-assets.s3.amazonaws.com/GameAssets/fonts/pix.xml"
+  },
+  "animations": {
+    "collectible_atlas": {
+      "png": "https://files.catbox.moe/bburzb.png",
+      "json": "https://files.catbox.moe/h3hw2e.json"
+    },
+    "speedpowerup_atlas": {
+      "png": "https://files.catbox.moe/r3nfg3.png",
+      "json": "https://files.catbox.moe/5dyr0t.json"
+    },
+    "tntpowerup_atlas": {
+      "png": "https://files.catbox.moe/0xb62t.png",
+      "json": "https://files.catbox.moe/3kraq4.json"
+    },
+    "explosion_atlas": {
+      "png": "https://files.catbox.moe/fecjre.png",
+      "json": "https://files.catbox.moe/dcsv33.json"
+    },
+    "debris_atlas": {
+      "png": "https://files.catbox.moe/fnpcnw.png",
+      "json": "https://files.catbox.moe/q2kggj.json"
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "title": "Ragdoll Rampage",
+  "url": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/hp14m2WO5xeRs1pw/game_config.json",
+  "description": "Interactive physics stress-test sandbox built on Matter.js rigid body dynamics. Features multi-joint skeletal constraints, elastic mouse spring velocity transfer, impact hit sparks, and an unlockable weapon arsenal.",
+  "instructions": "Left Click + Drag: Grab and fling ragdoll limbs with spring physics. Left Click (Tap): Deliver direct punch impulses to limbs or torso. Weapons HUD: Use earned coins to unlock and equip firearms. ESC: Pause.",
+  "deviceOrientation": "landscape",
+  "imageLoader": {
+    "buddy_head": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/hp14m2WO5xeRs1pw/assets/images/extra_image-removebg-preview%20%2826%29.png_id.png?t=1756747607798"
+  },
+  "soundsLoader": {
+    "background": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/Funny%20Background%20Music%20%20Funny%20Music%20Instrumental%20Comedy-%5BAudioTrimmer.com%5D_c70a2291-d199-4bc8-8ed1-097569638424.mp3?t=1757093147420",
+    "damage": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/Garry%27s%20Mod%20Ragdoll%20Sound-%5BAudioTrimmer.com%5D_6238d59c-d9d2-44c8-9001-b84bcd2a0fd7.mp3?t=1757093287476",
+    "collect": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/pickup_00fb8ff3-906f-46f7-94a6-e80840c24a97.mp3?t=1756637111758",
+    "ko_sound": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/defeat_906fa652-e8dd-4af6-b5ac-43da359685b2.mp3?t=1756637120131",
+    "extra_Ambient Calm Corporate.mp3_1756644221842": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/Top%205%20notification%20sounds%20%20%23shorts_b745cb6f-f3d6-4322-ab63-df7991e3cd14.mp3?t=1756637271932",
+    "taunt1": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/1_358602ab-ddf0-4274-ad05-eb8bda4ddd9b.mp3?t=1757091092449",
+    "taunt2": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/2_c54f9bb8-38e0-4fe1-ac6f-e8c154930b68.mp3?t=1757091097366",
+    "taunt3": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/3_896e7341-51e5-403e-98fc-58b236530625.mp3?t=1757091101475",
+    "taunt4": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/4_1d8ac092-7d72-47be-b589-9f693f096ada.mp3?t=1757091106751",
+    "taunt5": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/5_6d2a839e-155b-4c83-a901-e1b6a64134d2.mp3?t=1757091112324",
+    "taunt6": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/6_acd98d74-93a9-4395-b6de-f16234cc92ce.mp3?t=1757091117330",
+    "button_click": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/Click%20Sound%20Effect-%5BAudioTrimmer.com%5D_9e0c462b-ff79-4e88-af9e-82bda614ebc8.mp3?t=1757092994362",
+    "coin_spawn": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/8-Bit%20Coin%20Sound%20Effect%20%28Copyright%20Free%29-%5BAudioTrimmer.com%5D_4735142b-ef8a-483a-8a0f-258f38924a8f.mp3?t=1757092925807",
+    "weapon_shoot": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/Revolver%20gun%20shot%20sound%20effect-%5BAudioTrimmer.com%5D_2c833cbf-d792-462c-91e0-7ddc71c030f0.mp3?t=1757092918854"
+  },
+  "libLoader": {
+    "background": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/hp14m2WO5xeRs1pw/assets/images/extra_UI.png_id.png?t=1756702753448",
+    "score": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/hp14m2WO5xeRs1pw/assets/images/extra_image-removebg-preview%20%2839%29.png_id.png?t=1757169356672",
+    "title_background": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/hp14m2WO5xeRs1pw/assets/images/extra_UI%20%281%29.png_id.png?t=1757160865493",
+    "buddy_torso": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/hp14m2WO5xeRs1pw/assets/images/extra_image-removebg-preview%20%2824%29.png_id.png?t=1756747616142",
+    "buddy_arm": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/hp14m2WO5xeRs1pw/assets/images/extra_image-removebg-preview%20%2827%29.png_id.png?t=1756747736660",
+    "buddy_leg": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/hp14m2WO5xeRs1pw/assets/images/extra_image-removebg-preview%20%2825%29.png_id.png?t=1756747779474",
+    "coin": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/hp14m2WO5xeRs1pw/assets/images/extra_image-removebg-preview%20%2819%29.png_id.png?t=1756656479250",
+    "lock": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/hp14m2WO5xeRs1pw/assets/images/extra_image-removebg-preview%20%2814%29.png_id.png?t=1756647300461",
+    "crossbow": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/hp14m2WO5xeRs1pw/assets/images/extra_ChatGPT%20Image%20Sep%209%2C%202025%2C%2012_34_42%20PM.png_id.png?t=1757401673006",
+    "shotgun": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/hp14m2WO5xeRs1pw/assets/images/extra_ChatGPT%20Image%20Sep%209%2C%202025%2C%2012_31_08%20PM.png_id.png?t=1757401913207",
+    "grenade_launcher": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/hp14m2WO5xeRs1pw/assets/images/extra_ChatGPT%20Image%20Sep%209%2C%202025%2C%2012_37_03%20PM.png_id.png?t=1757401921324",
+    "rifle": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/hp14m2WO5xeRs1pw/assets/images/extra_ChatGPT%20Image%20Sep%209%2C%202025%2C%2012_42_01%20PM.png_id.png?t=1757401952114",
+    "pistol": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/hp14m2WO5xeRs1pw/assets/images/extra_ChatGPT%20Image%20Sep%209%2C%202025%2C%2012_52_39%20PM.png_id.png?t=1757402596373",
+    "play_button": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/hp14m2WO5xeRs1pw/assets/images/extra_play-button-icon-png-15.png_id.png?t=1757094303964",
+    "chain_link": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/hp14m2WO5xeRs1pw/assets/images/extra_image-removebg-preview%20%2828%29.png_id.png?t=1756748123092"
+  },
+  "deviceOrientationSizes": {
+    "landscape": {
+      "height": 720,
+      "width": 1280
+    },
+    "portrait": {
+      "height": 1280,
+      "width": 720
+    }
+  },
+  "phaserUrl": "https://cdnjs.cloudflare.com/ajax/libs/phaser/3.80.1/phaser.min.js",
+  "phaserVersion": "3.80.1",
+  "orientationSizes": {
+    "landscape": {
+      "width": 1280,
+      "height": 720
+    },
+    "portrait": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  "mobile_portrait": false,
+  "orientation": "portrait",
+  "audioLoader": {
+    "backgroundMusic": "https://aicade-ui-assets.s3.amazonaws.com/GameAssets/music/bgm-1.mp3",
+    "gameOverMusic": "https://aicade-ui-assets.s3.amazonaws.com/GameAssets/sfx/lose_5.mp3"
+  },
+  "fontLoader": {
+    "pixelfont_png": "https://aicade-ui-assets.s3.amazonaws.com/GameAssets/fonts/pix.png",
+    "pixelfont_xml": "https://aicade-ui-assets.s3.amazonaws.com/GameAssets/fonts/pix.xml"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "title": "School Monday",
+  "url": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/QC0C3qBvC2v9XlAa/game_config.json",
+  "description": "<p>Simple point and click adventure</p>",
+  "instructions": "Instructions: 1. Use SPACE or touch to make the player jump. 2. Avoid touching the avoidables or ground.",
+  "deviceOrientation": "landscape",
+  "imageLoader": {
+    "classroom": "https://aicade-user-store.s3.amazonaws.com/4277549527/games/0ZZWxfRuDRM6KizD/assets/images/extra_classroom2.png_id.png?t=1757189628797",
+    "exit_sign": "https://aicade-user-store.s3.amazonaws.com/4277549527/games/0ZZWxfRuDRM6KizD/assets/images/extra_exit.png_id.png?t=1756552914285",
+    "school corridor": "https://aicade-user-store.s3.amazonaws.com/4277549527/games/0ZZWxfRuDRM6KizD/assets/images/extra_school%20corridor.jpg_id.png?t=1756553032713",
+    "titlescreen": "https://aicade-user-store.s3.amazonaws.com/4277549527/games/0ZZWxfRuDRM6KizD/assets/images/extra_titlescreen.png_id.png?t=1756723713163",
+    "table": "https://aicade-user-store.s3.amazonaws.com/4277549527/games/0ZZWxfRuDRM6KizD/assets/images/extra_table.png_id.png?t=1756725165088",
+    "grass": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/QC0C3qBvC2v9XlAa/assets/images/extra_ChatGPT%20Image%20Sep%209%2C%202025%2C%2010_13_51%20AM.png_id.png?t=1757393049784",
+    "man": "https://aicade-ui-assets.s3.amazonaws.com/4277549527/games/0ZZWxfRuDRM6KizD/history/iteration/k9mFHAHIoK4A.webp",
+    "clock_face": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/QC0C3qBvC2v9XlAa/assets/images/extra_ChatGPT%20Image%20Sep%209%2C%202025%2C%2010_03_19%20AM.png_id.png?t=1757392482818",
+    "long_hand": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/QC0C3qBvC2v9XlAa/assets/images/extra_ChatGPT%20Image%20Sep%209%2C%202025%2C%2010_02_09%20AM.png_id.png?t=1757392729102",
+    "short_hand": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/QC0C3qBvC2v9XlAa/assets/images/extra_ChatGPT%20Image%20Sep%209%2C%202025%2C%2010_00_44%20AM.png_id.png?t=1757392719766",
+    "creepy smile": "https://aicade-ui-assets.s3.amazonaws.com/4277549527/games/0ZZWxfRuDRM6KizD/history/iteration/I11HLGmhC5Xm.webp",
+    "vijay neutral": "https://aicade-user-store.s3.amazonaws.com/4277549527/games/0ZZWxfRuDRM6KizD/assets/images/vijay%20neutral.png?t=1756918882914",
+    "vijay happy": "https://aicade-user-store.s3.amazonaws.com/4277549527/games/0ZZWxfRuDRM6KizD/assets/images/vijay%20happy.png?t=1756918907550",
+    "vijay thinking": "https://aicade-user-store.s3.amazonaws.com/4277549527/games/0ZZWxfRuDRM6KizD/assets/images/vijay%20thinking.png?t=1756918929699",
+    "vijay standing": "https://aicade-ui-assets.s3.amazonaws.com/4277549527/games/0ZZWxfRuDRM6KizD/history/iteration/ehwmTLr4EyNr.webp",
+    "teacher_turned_around": "https://aicade-ui-assets.s3.amazonaws.com/4277549527/games/0ZZWxfRuDRM6KizD/history/iteration/XYjmy6olbqix.webp",
+    "teacher neutral": "https://aicade-ui-assets.s3.amazonaws.com/4277549527/games/0ZZWxfRuDRM6KizD/history/iteration/KysQ2n7gT4Be.webp",
+    "teacher worksheet": "https://aicade-ui-assets.s3.amazonaws.com/4277549527/games/0ZZWxfRuDRM6KizD/history/iteration/VYNuDnWfYIxA.webp",
+    "teacher writing": "https://aicade-ui-assets.s3.amazonaws.com/4277549527/games/0ZZWxfRuDRM6KizD/history/iteration/yZuGE636jQaL.webp",
+    "paper sheet": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/QC0C3qBvC2v9XlAa/assets/images/extra_extra_paperruled.jpg_id%20-%20Copy.png_id.png?t=1757390898061",
+    "extra_classroom2.png_id": "https://aicade-user-store.s3.amazonaws.com/4277549527/games/0ZZWxfRuDRM6KizD/assets/images/extra_shutterstock.jpg_id.png?t=1756410481905",
+    "park": "https://aicade-user-store.s3.amazonaws.com/4277549527/games/0ZZWxfRuDRM6KizD/assets/images/extra_park.jpg_id.png?t=1757190011813",
+    "playground scene": "https://aicade-user-store.s3.amazonaws.com/4277549527/games/0ZZWxfRuDRM6KizD/assets/images/extra_playground.jpg_id.png?t=1757190015763",
+    "school": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/QC0C3qBvC2v9XlAa/assets/images/extra_ChatGPT%20Image%20Sep%209%2C%202025%2C%2010_20_26%20AM.png_id.png?t=1757393487174",
+    "shop": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/QC0C3qBvC2v9XlAa/assets/images/extra_ChatGPT%20Image%20Sep%209%2C%202025%2C%2010_17_08%20AM.png_id.png?t=1757393336093",
+    "playground": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/QC0C3qBvC2v9XlAa/assets/images/extra_ChatGPT%20Image%20Sep%209%2C%202025%2C%2010_15_29%20AM.png_id.png?t=1757393173002",
+    "extra_thought bubble.jpg_id": "https://aicade-user-store.s3.amazonaws.com/4277549527/games/0ZZWxfRuDRM6KizD/assets/images/extra_thought%20bubble.jpg_id.png?t=1757241303510",
+    "thought bubble": "https://aicade-user-store.s3.amazonaws.com/4277549527/games/0ZZWxfRuDRM6KizD/assets/images/thought%20bubble.png?t=1757241357678",
+    "extra_ChatGPT Image Sep 8, 2025, 01_53_52 AM.png_id": "https://aicade-user-store.s3.amazonaws.com/4277549527/games/0ZZWxfRuDRM6KizD/assets/images/extra_paperruled.jpg_id.png?t=1757185256449",
+    "extra_ChatGPT Image Sep 9, 2025, 10_15_29 AM.png_id": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/QC0C3qBvC2v9XlAa/assets/images/extra_ChatGPT%20Image%20Sep%208%2C%202025%2C%2001_20_02%20AM.png_id.png?t=1757274619249",
+    "extra_ChatGPT Image Sep 9, 2025, 10_17_08 AM.png_id": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/QC0C3qBvC2v9XlAa/assets/images/extra_ChatGPT_Image_Sep_8__2025__01_08_43_AM-removebg-preview.png_id.png?t=1757274007619",
+    "extra_ChatGPT Image Sep 9, 2025, 10_20_26 AM.png_id": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/QC0C3qBvC2v9XlAa/assets/images/extra_ChatGPT_Image_Sep_8__2025__01_11_05_AM-removebg-preview.png_id.png?t=1757274104312"
+  },
+  "soundsLoader": {
+    "prejumpscare1": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/lookatme_cbee2daa-ed9e-4f61-b3a8-2799455ac15d.mp3?t=1756721696071",
+    "prejumpscare2": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/lookatme2_2304ebfc-6b11-49f1-b81f-65991a65d8d8.mp3?t=1756721780552",
+    "school bell": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/schoolbell_d3fcb1d9-2b34-46d6-be16-856ec856772b.mp3?t=1756722362940",
+    "teacher_voiceline1": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/teachervoiceline1_d35925e4-1aea-4012-b87b-c7121554f3cb.mp3?t=1757084269381",
+    "teacher_voiceline2": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/teachervoicelate_c3a28b5c-bb3c-49be-9f4d-3d090407a4c8.mp3?t=1757084895496",
+    "teacher_voiceline3": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/teachervoiceearly_57d25958-504b-4f7c-8637-4df907138085.mp3?t=1757084902628",
+    "teacher_voiceline4": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/teachervoiceline2_f05b4a86-7deb-44b8-adfa-917e5b97d4ae.mp3?t=1757084919271",
+    "teacher_voiceline5": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/teachervoiceline3_3559ed59-56ca-48bb-93c8-a78f65dfcce4.mp3?t=1757084926247",
+    "quiz": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/quizmusic_5dced48c-d373-4ec4-ae16-a62f93517be7.mp3?t=1757188078243",
+    "classroom_ambient": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/classroom_c65d3767-a06e-48b2-bf47-dde0b7aa60f7.mp3?t=1757189158716",
+    "extra_classroom.mp3_1757189155168": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/classroom_684cfd17-42f5-4d6d-8160-2ce7a3f8d39f.mp3?t=1757188228362",
+    "jumpscare": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/jumpscare_884d9c49-eaa4-4513-b083-af83bc2fe7de.mp3?t=1757189348573",
+    "self thought": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/self%20thought_244c31f7-73f2-4a70-9332-1fe83792dae6.mp3?t=1757240776413",
+    "menu music": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/menu%20music_c826b762-7327-4528-9891-8529fa68dbb1.mp3?t=1757244015965"
+  },
+  "libLoader": {
+    "downlook": "https://aicade-user-store.s3.amazonaws.com/4277549527/games/0ZZWxfRuDRM6KizD/assets/images/extra_finaldownlook.png_id.png?t=1756474250199",
+    "uplook": "https://aicade-user-store.s3.amazonaws.com/4277549527/games/0ZZWxfRuDRM6KizD/assets/images/extra_uplook.png_id.png?t=1756493796723"
+  },
+  "deviceOrientationSizes": {
+    "landscape": {
+      "height": 720,
+      "width": 1280
+    },
+    "portrait": {
+      "height": 1280,
+      "width": 720
+    }
+  },
+  "phaserUrl": "https://cdnjs.cloudflare.com/ajax/libs/phaser/3.80.1/phaser.min.js",
+  "phaserVersion": "3.80.1",
+  "orientationSizes": {
+    "landscape": {
+      "height": 720,
+      "width": 1280
+    },
+    "portrait": {
+      "height": 1280,
+      "width": 720
+    }
+  }
+}

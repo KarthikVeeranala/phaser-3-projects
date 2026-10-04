@@ -1,0 +1,59 @@
+{
+  "title": "Tower Ascent: Dungeon Escape",
+  "url": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/DImMAcJlubv1mQJr/game_config.json",
+  "description": "Vertical ascent challenge combining precision platform hopping with a seamless ladder-climbing state machine, rising hazard floors, and directional firearm combat.",
+  "instructions": "A / D: Move left / right. W / S: Climb ladders up / down. SPACE: Jump across platform ledges. Mouse Reticle: Aim gun. Left Click: Fire at hazards. R: Reload ammo when clip is empty. ESC: Pause.",
+  "deviceOrientation": "landscape",
+  "imageLoader": {
+    "background": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/0MmIWcXSLoe5RYp5/assets/images/extra_Gemini_Generated_Image_gzamekgzamekgzam.png_id.png?t=1753526138606",
+    "floor_tile": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/0MmIWcXSLoe5RYp5/assets/images/extra_Gemini_Generated_Image_gzamekgzamekgzam.png_id.png?t=1753526138606",
+    "projectile": "https://aicade-ui-assets.s3.amazonaws.com/fireball_projectile.webp/games/6994335331/history/iteration/vCIdKnhkwH3vMsdD.webp",
+    "collectible": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/0MmIWcXSLoe5RYp5/assets/images/extra_ui_gem.png_id.png?t=1753211194021",
+    "player": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/0MmIWcXSLoe5RYp5/assets/images/extra_avata2.png_id.png?t=1753208708305",
+    "enemy": "https://aicade-ui-assets.s3.amazonaws.com/dragon_enemy.webp/games/6994335331/history/iteration/vCIdKnhkwH3vMsdD.webp",
+    "enemy_1": "https://aicade-ui-assets.s3.amazonaws.com/goblin_enemy.webp/games/6994335331/history/iteration/vCIdKnhkwH3vMsdD.webp",
+    "enemy_2": "https://aicade-ui-assets.s3.amazonaws.com/dragon_enemy.webp/games/6994335331/history/iteration/vCIdKnhkwH3vMsdD.webp",
+    "portal": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/0MmIWcXSLoe5RYp5/assets/images/extra_portal-removebg-preview.png_id.png?t=1753285923737"},
+  "soundsLoader": {
+    "background": "https://aicade-ui-assets.s3.amazonaws.com/GameAssets/music/bgm-8.mp3",
+    "sfx_powerup": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/item-pick-up-38258_44dffda3-8bf5-41bb-bfee-d1555406fc00.mp3?t=1748921942619",
+    "sfx_click": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/pick-up-sfx-38516_e82cf833-bdaf-40ed-8811-04bef16762ac.mp3?t=1748921942701",
+    "sfx_shoot_basic": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/edited_audio_28e936b6-fbfd-4c5b-b931-852b46940895.mp3?t=1748922688391",
+    "sfx_enemy_die": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/edited_audio_2e265c2f-bf60-4036-95fa-1226dbd227bd.mp3?t=1748924922816",
+    "sfx_enemy_hit": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/edited_audio_9e699e5d-79ec-497d-b1c4-cb6a0adfe724.mp3?t=1748924979877",
+    "sfx_player_hit": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/edited_audio_3945f9e7-044a-4d4c-8a98-edbd7e51fc8a.mp3?t=1748927251341"
+  },
+  "libLoader": {
+    "tile_edge": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/0MmIWcXSLoe5RYp5/assets/images/extra_Gemini_Generated_Image_8zuztn8zuztn8zuz__1_-removebg-preview.png_id.png?t=1753527373792",
+    "tile_corner": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/0MmIWcXSLoe5RYp5/assets/images/extra_image-removebg-preview%20%283%29.png_id.png?t=1753527752941",
+    "tile_fill": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/0MmIWcXSLoe5RYp5/assets/images/extra_Gemini_Generated_Image_9tv6h79tv6h79tv6-removebg-preview.png_id.png?t=1753532023011",
+    "icon_heart": "https://aicade-ui-assets.s3.amazonaws.com/heart_collectible.webp/games/6994335331/history/iteration/vCIdKnhkwH3vMsdD.webp",
+    "background_cave": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/0MmIWcXSLoe5RYp5/assets/images/extra_bg.png_id.png?t=1753275204266",
+    "enemyBullet": "https://aicade-ui-assets.s3.amazonaws.com/skeleton_enemy.webp/games/6994335331/history/iteration/vCIdKnhkwH3vMsdD.webp",
+    "basic_gun": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/0MmIWcXSLoe5RYp5/assets/images/extra_generated-image__3_-removebg-preview.png_id.png?t=1753455923333",
+    "power_freeze": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/0MmIWcXSLoe5RYp5/assets/images/extra_generated-image__1_-removebg-preview.png_id.png?t=1753284214392",
+    "power_damage": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/0MmIWcXSLoe5RYp5/assets/images/extra_generated-image__1_-removebg-preview%20%282%29.png_id.png?t=1753455232194",
+    "power_life": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/0MmIWcXSLoe5RYp5/assets/images/extra_generated-image__1_-removebg-preview%20%281%29.png_id.png?t=1753455234976",
+    "power_speed": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/0MmIWcXSLoe5RYp5/assets/images/extra_generated-image__2_-removebg-preview.png_id.png?t=1753455429387",
+    "player_face": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/0MmIWcXSLoe5RYp5/assets/images/extra_player_face.png_id.png?t=1753211167576",
+    "ui_heart": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/0MmIWcXSLoe5RYp5/assets/images/extra_ui_heart.png_id.png?t=1753211176326",
+    "ui_skull": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/0MmIWcXSLoe5RYp5/assets/images/extra_ui_skull.png_id.png?t=1753211186900",
+    "ui_skull_crossed": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/0MmIWcXSLoe5RYp5/assets/images/extra_ui_skull_crossed.png_id.png?t=1753211190059",
+    "ui_gem": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/0MmIWcXSLoe5RYp5/assets/images/extra_ui_gem.png_id.png?t=1753211194021",
+    "ladder": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAMklEQVRYR+3QQREAAAzCQNq/tAMWvpwgIHBtklS+d17AIAIECAgQIECAAAECBAgQIEAgExgXkQEl963uYQAAAABJRU5ErkJggg==",
+    "ui_health_bar": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/0MmIWcXSLoe5RYp5/assets/images/extra_image-removebg-preview.png_id.png?t=1753453422936",
+    "ui_ammo_bar": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/0MmIWcXSLoe5RYp5/assets/images/extra_image-removebg-preview%20%282%29.png_id.png?t=1753453426050"
+  },
+  "phaserUrl": "https://cdnjs.cloudflare.com/ajax/libs/phaser/3.80.1/phaser.min.js",
+  "phaserVersion": "3.80.1",
+  "orientationSizes": {
+    "landscape": {
+      "height": 720,
+      "width": 1280
+    },
+    "portrait": {
+      "height": 1280,
+      "width": 720
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "title": "Beat Drop",
+  "url": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/dQq5Fxglur3igtyB/game_config.json",
+  "description": "<p>Feel the music like never before! Tap, flow, and master the beat in this electrifying rhythm game. Conquer our challenging tracks or create your own levels by uploading <strong>your favorite songs</strong> directly from your device. Can you keep up with the rhythm?</p>",
+  "instructions": "Instructions: 1. Use SPACE or touch to make the player jump. 2. Avoid touching the avoidables or ground.",
+  "deviceOrientation": "landscape",
+  "imageLoader": {},
+  "soundsLoader": {
+    "click_sound": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/Mouse%20Click%20Sound%20Effect_83c10da5-24a9-4c16-a61f-faec928c1444.mp3?t=1758995169325",
+    "star_chime": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/Mouse%20Click%20Sound%20Effect_83c10da5-24a9-4c16-a61f-faec928c1444.mp3?t=175899516932",
+    "title_music": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/Valorant%20Loading%20Screen%20-%20Sound%20Effect%20%28Valorant%20Game%20SFX%29_93706cbe-11d9-41a4-88b1-f4eebf470fac.mp3?t=1758994899450",
+    "song1": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/ATLXS%20-%20PASSO%20BEM%20SOLTO%20%28SLOWED%29_ff1f1e44-bf80-4c9c-ae05-3b147af6d8f7.mp3?t=1759161778268",
+    "song2": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/%D1%83%D1%80%D0%B0%D0%BB%20%D0%B3%D0%B0%D0%B9%D1%81%D0%B8%D0%BD%20x%20madk1d%20type%20beat_d0f38270-b617-4a83-a853-29a32b8a0080.mp3?t=1759161829035",
+    "song3": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/MONTAGEM%20XONADA_f7165c18-568d-4aed-a0a6-678bf84587b4.mp3?t=1759161922562",
+    "sfx_hover": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/Free%20Game%20SFX%20Pack%20%20Hover%20%26%20Select%20Sound%20Effects%20for%20Game%20Developers-%5BAudioTrimmer.com%5D_57676b4e-a03e-4afe-9c0c-90a045d21d0f.mp3?t=1758995788592",
+    "sfx_click": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/Mouse%20Click%20Sound%20Effect_83c10da5-24a9-4c16-a61f-faec928c1444.mp3?t=1758995169325",
+    "sfx_swoosh": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/Whoosh%20Sounds%20effects%20No%20copyright-%5BAudioTrimmer.com%5D_37d3b6de-9e44-44dd-ba63-1637271f2ceb.mp3?t=1758995871767",
+    "sfx_miss": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/Wrong%20Answer%20Sound%20Effects%20All%20Sounds-%5BAudioTrimmer.com%5D_a9aecdec-f190-49c9-b114-726b2d74a100.mp3?t=1758996273873",
+    "sfx_combo": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/Jet%20Set%20Radio%20-%20All%20Spray%20Sound%20Effects%20%28HQ%29-%5BAudioTrimmer.com%5D_57becdc6-446c-485a-b6fa-020b1421d4a8.mp3?t=1758996365483",
+    "sfx_transition": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/Transition%20-%20Sound%20Effect%20HD-%5BAudioTrimmer.com%5D_0580eab0-d3fe-41ee-ba3c-6aa383d0af96.mp3?t=1758996541725",
+    "sfx_victory": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/Victory%20-%20Free%20Sound%20Effect%20%283%29_211ba18e-f5d6-4ca9-b71a-3dcd557d29fe.mp3?t=1758996969552",
+    "sfx_gameover": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/Arcade%20Retro%20Game%20Over%20-%20Sound%20Effect%20%28Final%20Cut%29-%5BAudioTrimmer.com%5D_1253cfc2-e53d-494b-8a9c-cdc8ffca95b2.mp3?t=1758996706578",
+    "extra_ATLXS - PASSO BEM SOLTO (SLOWED).mp3_1759161774383": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/Funny%20Background%20Music%20%20Funny%20Music%20Instrumental%20Comedy_f355ed05-d98b-4339-a8cc-f5e8f26f0a79.mp3?t=1757939503408",
+    "extra_урал гайсин x madk1d type beat.mp3_1759161823374": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/Dus%20Don%20x%20Arjun%20Kapoor%20attitude%20WhatsApp%20status%20%20editz_af62e70e-120a-4f8e-8e3a-5b468095818f.mp3?t=1757939562979",
+    "extra_MONTAGEM XONADA.mp3_1759161919269": "https://aicade-user-store.s3.amazonaws.com/GameAssets/music/Introducing%20Alert%20Triggers%20Order%20%28ATO%29%20%20Automate%20order%20placement%20using%20Zerodha%20Kite%20alerts-%5BAudioTrimmer.com%5D_0fac070b-1bda-4575-b404-e2748b2bdcf2.mp3?t=1757939592480"
+  },
+  "libLoader": {
+    "star": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/dQq5Fxglur3igtyB/assets/images/extra_ChatGPT%20Image%20Sep%2027%2C%202025%2C%2010_43_43%20PM.png_id.png?t=1758993305314",
+    "starEmpty": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/dQq5Fxglur3igtyB/assets/images/extra_ChatGPT%20Image%20Sep%2027%2C%202025%2C%2010_44_31%20PM.png_id.png?t=1758993312811",
+    "buttonbg": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/dQq5Fxglur3igtyB/assets/images/extra_image-removebg-preview.png_id.png?t=1758987614679",
+    "background": "https://aicade-user-store.s3.amazonaws.com/1760936552/games/dQq5Fxglur3igtyB/assets/images/extra_ChatGPT%20Image%20Sep%2027%2C%202025%2C%2010_28_31%20PM.png_id.png?t=1758992350514"
+  },
+  "deviceOrientationSizes": {
+    "landscape": {
+      "height": 720,
+      "width": 1280
+    },
+    "portrait": {
+      "height": 1280,
+      "width": 720
+    }
+  },
+  "phaserUrl": "https://cdnjs.cloudflare.com/ajax/libs/phaser/3.80.1/phaser.min.js",
+  "phaserVersion": "3.80.1",
+  "orientationSizes": {
+    "landscape": {
+      "height": 720,
+      "width": 1280
+    },
+    "portrait": {
+      "height": 1280,
+      "width": 720
+    }
+  },
+  "mobile_portrait": false,
+  "worlds": {
+    "forest": {
+      "background": "Background",
+      "objects": [
+        {
+          "type": "tree",
+          "x": 400,
+          "y": 300
+        },
+        {
+          "type": "grass",
+          "x": 500,
+          "y": 320
+        }
+      ]
+    },
+    "town": {
+      "background": "town_bg",
+      "objects": [
+        {
+          "type": "grass",
+          "x": 100,
+          "y": 200
+        },
+        {
+          "type": "tree",
+          "x": 300,
+          "y": 500
+        }
+      ]
+    }
+  }
+}
